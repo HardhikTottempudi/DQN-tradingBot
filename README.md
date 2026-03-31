@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning Trading Agent
 
 **Module:** 25COC102 Advanced AI — Loughborough University  
-**Author:** Hardhik Tottempudi (F312851)
+**Author:** Hardhik Tottempudi
 
 ---
 
