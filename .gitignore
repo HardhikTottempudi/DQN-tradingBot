@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Coursework brief (university IP)
+25COC102-CW.pdf
+
+# Zip archives
+*.zip
+
+# Intermediate/extracted text files
+._cw_nb_code.txt
+._cw_nb_md.txt
+._cw_nb_outputs.txt
+._cw_nb_pdf_text.txt
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
