@@ -4,6 +4,7 @@
 **Author:** Hardhik Tottempudi
 
 ---
+![WhatsApp Image 2026-04-14 at 1 56 44 PM](https://github.com/user-attachments/assets/a82c3299-f490-43a3-be78-90dee74bcb77)
 
 ## Overview
 
